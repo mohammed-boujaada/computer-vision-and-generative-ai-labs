@@ -178,6 +178,11 @@ Exact compatibility and resource requirements depend on the Python environment, 
 - Model weights and large checkpoints are not included in the repository.
 - Use images and model checkpoints according to their licenses and usage terms.
 
+
+## Image Credits
+
+Some images used in these labs were sourced from Google Images for educational and demonstration purposes. All rights belong to their respective owners.
+
 ## Author
 
 **Mohamed Zahir**
