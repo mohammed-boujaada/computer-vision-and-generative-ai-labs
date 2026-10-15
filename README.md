@@ -76,7 +76,7 @@ A computer vision pipeline combining three model capabilities to analyze a real-
 
 **Depth estimation**
 
-![Estimated scene depth map](ex3-detection-segmentation-depth/results/depth_map.jfif)
+![Estimated scene depth map](ex3-detection-segmentation-depth/results/Depth_map.png)
 
 **Notebook:** [detection_segmentation_depth.ipynb](ex3-detection-segmentation-depth/detection_segmentation_depth.ipynb)
 
