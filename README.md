@@ -68,15 +68,15 @@ A computer vision pipeline combining three model capabilities to analyze a real-
 
 **Input scene**
 
-![Original street scene](ex3-detection-segmentation-depth/images/input_image.jpg)
+![Original street scene](ex3-detection-segmentation-depth/images/input_image.jpeg)
 
 **Detection and segmentation**
 
-![Detected and segmented scene](ex3-detection-segmentation-depth/results/detected_and_segmented.png)
+![Detected and segmented scene](ex3-detection-segmentation-depth/results/detected_and_segmented.jpeg)
 
 **Depth estimation**
 
-![Estimated scene depth map](ex3-detection-segmentation-depth/results/depth_map.png)
+![Estimated scene depth map](ex3-detection-segmentation-depth/results/depth_map.jfif)
 
 **Notebook:** [detection_segmentation_depth.ipynb](ex3-detection-segmentation-depth/detection_segmentation_depth.ipynb)
 
