@@ -3,7 +3,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Vision-5C3EE8?logo=opencv&logoColor=white)
-![OCR](https://img.shields.io/bade/Tesseract-OCR-00C853)
+![OCR](https://img.shields.io/badge/OCR-Tesseract-00C853)
 ![Generative AI](https://img.shields.io/badge/Stable%20Diffusion-Generative%20AI-A855F7?logo=huggingface&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
