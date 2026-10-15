@@ -105,7 +105,7 @@ An image-to-image generation workflow that explores how diffusion models can red
 
 **Original image**
 
-![Original bedroom](ex4-interior-redesign/images/input_image_ex4.jpg)
+![Original bedroom](ex4-interior-redesign/images/input_image_ex4.jpeg)
 
 **Notebook:** [interior_redesign.ipynb](ex4-interior-redesign/interior_redesign.ipynb)
 
